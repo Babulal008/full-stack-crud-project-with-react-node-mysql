@@ -66,13 +66,7 @@ sudo npm install pm2@latest -g
 # Verify the installation:
 pm2 --version
 ```
-### 4. Clone the Repository
-```bash
-git clone https://github.com/mahadihassanrazib/full-stack-crud-project-with-react-node-mysql.git
 
-# Navigate to the project directory:
-cd full-stack-crud-project-with-react-node-mysql
-```
 
 ### 5. Configure and Run Backend `API` Server 🏗️
 ```bash
